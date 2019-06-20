@@ -1,5 +1,8 @@
 # Axial hexagonal grid generator for PHP
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/astatroth/php-hexgrid.svg?style=flat-square)](https://packagist.org/packages/spatie/:package_name)
+[![Total Downloads](https://img.shields.io/packagist/dt/astatroth/php-hexgrid.svg?style=flat-square)](https://packagist.org/packages/spatie/:package_name)
+
 This package is a port of [Axial hexagonal grid](https://github.com/RobertBrewitz/axial-hexagonal-grid) by Robert Brewitz, originally written in JS.
 
 ## Installation
