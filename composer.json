@@ -1,0 +1,24 @@
+{
+    "name": "astatroth/php-hexgrid",
+    "description": "Axial hexagonal grid generator for PHP",
+    "require": {
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robert Brewitz Borg",
+            "email": "hello@robertbrewitz.com"
+        },
+        {
+            "name": "Astatroth",
+            "email": "astatroth@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+      "psr-4": {
+        "Astatroth\\HexGrid\\": "/src/"
+      }
+    }
+}
