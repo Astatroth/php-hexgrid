@@ -222,6 +222,36 @@ class Grid
     }
 
     /**
+     * Sets the pointyTiles property.
+     *
+     * @param bool $value
+     */
+    public function setPointyTiles(bool $value):void
+    {
+        $this->pointyTiles = $value;
+    }
+
+    /**
+     * Sets the tileSize property.
+     *
+     * @param int $size
+     */
+    public function setTileSize(int $size):void
+    {
+        $this->tileSize = $size;
+    }
+
+    /**
+     * Sets the tileSpacing property.
+     *
+     * @param int $spacing
+     */
+    public function setTileSpacing(int $spacing):void
+    {
+        $this->tileSpacing = $spacing;
+    }
+
+    /**
      * Converts a floating point coordinates into integer.
      *
      * @param array $coordinates
